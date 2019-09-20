@@ -208,5 +208,4 @@ class Hotel {
     }
 }
 
-let hotel = new Hotel('HotUni', 11);
-console.log(hotel.capacity);
+//Bugs: sometimes when the capacity is uneven some rooms are not set as they should.
